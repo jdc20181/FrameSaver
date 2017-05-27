@@ -4,4 +4,11 @@ Frame Saver is a VB.NET Developed Screenshot program - What makes this one diffe
 
 You may know this feature or notice it, from another project of mine, BeffsBrowser, which is a Browser with so many features I can't even begin to tell you about it. 
 
-*more info coming soon*
+
+**Current Plans**
+
+- Basic Version (Beta) will be released soon. 
+
+- The next version after the first launch will have a better design, and more features. 
+
+
