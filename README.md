@@ -11,4 +11,10 @@ You may know this feature or notice it, from another project of mine, BeffsBrows
 
 - The next version after the first launch will have a better design, and more features. 
 
+- Launch Development DLL Version (With PAID Support) 
+
+
+
+
+
 
