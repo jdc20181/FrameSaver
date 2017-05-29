@@ -18,3 +18,4 @@ You may know this feature or notice it, from another project of mine, BeffsBrows
 
 
 
+**More details are in the [wiki](https://github.com/jdc20181/FrameSaver/wiki)**
