@@ -4,7 +4,8 @@
 
 **Version 0.1.0 Beta Release Date**
 
-I am going to be launching FrameSaver sometime in July - Currently I am still working on it. 
+**Release Date** Estimate date: June 20
+
 
 The releaase will include basic saving to Disk, and later in another release I will add Uploading support to something like imigur.
 
