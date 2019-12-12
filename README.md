@@ -12,17 +12,9 @@ Those Denoted by  :white_check_mark: are features *planned* in the initial relea
 |:-------------------------------------------------:|:-------:|
 |                     Imgur API                     |    :white_check_mark:     |
 |             Free unlimited uploading              |     :white_check_mark:    |
-| Save Local                                        |         |
+| Save Local                                        |      :white_check_mark:   |
 | Custom save location (including your own server!) |    :thumbsdown:     |
-|                                                   |         |
-|                                                   |         |
-|                                                   |         |
-|                                                   |         |
-|                                                   |         |
-|                                                   |         |
-|                                                   |         |
-|                                                   |         |
-|                                                   |         |
+
 
 
 
